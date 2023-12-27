@@ -1,1 +1,1 @@
-# StereoSound.plugin
+# Stereo Sound Plugin 
