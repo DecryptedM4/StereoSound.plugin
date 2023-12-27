@@ -1,0 +1,1 @@
+# StereoSound.plugin
