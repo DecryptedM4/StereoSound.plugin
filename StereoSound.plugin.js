@@ -1,6 +1,6 @@
 /**
  * @name StereoSound
- * @version 0.0.6
+ * @version 0.0.7
  * @authorLink https://github.com/bepvte
  * @source https://raw.githubusercontent.com/bepvte/bd-addons/main/plugins/StereoSound.plugin.js
  */
